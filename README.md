@@ -5,3 +5,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This was made following this [tutorial](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=react)
+
+## endpoints
+
+https://rpr-dhg-haete4gjh5b3gjfa.z01.azurefd.net/
+
+https://dhg-secured-gcfrbwb8bndkbaed.z01.azurefd.net/
+
