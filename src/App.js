@@ -15,7 +15,7 @@ function App() {
   const value = 'World';
   return (
     <div>
-      <h1>Welcome to my app</h1>
+      <h1 className="avatar">Welcome to my app</h1>
       <h2>Hola {value}</h2>
       <MyButton />
     </div>
