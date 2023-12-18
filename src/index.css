@@ -1,11 +1,11 @@
 .app {
-  color: green;
-  background-color: white;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   body {
-      font-family: Helvetica, Arial, sans-serif;
-    }
+    color: green;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
 }
 .avatar {
+  border: 0cqmax solid #662121;
   border-radius: 50%;
 }
