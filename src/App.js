@@ -22,7 +22,7 @@ function App() {
       <h1 className="avatar">Welcome to my app</h1>
       <h2>Hola {value}</h2>
       <MyButton />
-      <Profile />
+      <About />
     </div>
   );
 }
