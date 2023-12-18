@@ -1,10 +1,12 @@
+import React from 'react';
+
 const user = {
     name: 'Hedy Lamarr',
     imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
     imageSize: 90,
   };
   
-  export default function About() {
+export default function About() {
     return (
       <>
         <h1>{user.name}</h1>
