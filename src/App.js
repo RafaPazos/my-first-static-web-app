@@ -35,9 +35,9 @@ function App() {
         rowHeight={30}
         width={1200}
       >
-        <div key="a">a</div>
-        <div key="b">b</div>
-        <div key="c">c</div>
+        <div className="avatar" key="a">a</div>
+        <div className="avatar" key="b">b</div>
+        <div className="avatar" key="c">c</div>
       </GridLayout>
     </div>
   );
